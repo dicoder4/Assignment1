@@ -33,12 +33,13 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
+![image](https://github.com/user-attachments/assets/2d3e47e4-96cc-4e7a-9164-f32640a7976f)
+
+![image](https://github.com/user-attachments/assets/9b6eaf16-a787-49ea-ac17-d08474085ef4)
+
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
@@ -57,6 +58,9 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+![HappyCatKedyGIF (2)](https://github.com/user-attachments/assets/b18bb2d2-d84e-47c2-9ac6-6b8d4e377598)
+
 
 ###
 
