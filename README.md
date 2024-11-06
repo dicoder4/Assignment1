@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1>Hey there welcome to my github account👋</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Diya from MSRIT<br><br>- 🏫 I have take CSE<br>- 📚 I'm currently learning GIT<br>- </p>
+<p align="left">I'm Diya from MSRIT<br><br>- 🏫 I have take CSE<br>- 📚 I'm currently in 5th semester<br>- </p>
 
 ###
 
@@ -40,32 +40,27 @@
 
 <div align="left">
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-![HappyCatKedyGIF (2)](https://github.com/user-attachments/assets/b18bb2d2-d84e-47c2-9ac6-6b8d4e377598)
 
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<h3 align="left">🔥   My Skills :</h3>
+Programming   
+Basic Web Dev   
+Ubuntu   
+Keil SDK   
+VS Code
+
+<h3 align="left">📖  Course Work :</h3>
+Design and analysis of algorithms   
+MCIOT   
+DCN   
+Data Structures
+
+
+###
+![CardiffCardiffUniGIF](https://github.com/user-attachments/assets/1be65ed8-cf15-4c22-a1c2-6cd401965214)
+
+
 
 ###
